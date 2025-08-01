@@ -1,0 +1,1058 @@
+{
+  "items": [
+    {
+      "id": "72tHaw7Hxgs",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/72tHaw7Hxgs/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYRSBlKGMwDw==&rs=AOn4CLCb_xcQiCzPa6wMxZjNzjdAXGvL5w",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/72tHaw7Hxgs/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYRSBlKGMwDw==&rs=AOn4CLAtH6WuKmsPqSLNaliMXlSqrKDilA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Spamton's Shop - ANIMATED",
+      "channelTitle": "Hobo Hobo",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Hobo Hobo",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CJgDENwwGAAiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@HoboHoboLOLFUNNY",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCDPQg2rivnw8SZxsZEZMy6Q",
+                "canonicalBaseUrl": "/@HoboHoboLOLFUNNY"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 minute, 20 seconds"
+          }
+        },
+        "simpleText": "1:20"
+      },
+      "isLive": false
+    },
+    {
+      "id": "cSm5gKlmw2M",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/cSm5gKlmw2M/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDRpDz-IomQo6zdQq-6xeaVIgLOdA",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/cSm5gKlmw2M/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC26HRqN7Y1f_cVJvik5Mc7HIsVZw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Spamton",
+      "channelTitle": "Toby Fox - Topic",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Toby Fox - Topic",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CJMDENwwGAEiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCntaczLM_lWH85oZp6rRX1w",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCntaczLM_lWH85oZp6rRX1w",
+                "canonicalBaseUrl": "/channel/UCntaczLM_lWH85oZp6rRX1w"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "43 seconds"
+          }
+        },
+        "simpleText": "0:43"
+      },
+      "isLive": false
+    },
+    {
+      "id": "u14tZbiFMi0",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/u14tZbiFMi0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA7wzuZnLQdbgikKJyYvQO6opUarg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/u14tZbiFMi0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDGDjtr8nZY1s_rVOPGUK10Zmi0fQ",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Spamton Encounter - Deltarune Animation",
+      "channelTitle": "Davis",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Davis",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CI4DENwwGAIiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@ActualDavis",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCduSViVv29zhNvZg0mcO_XQ",
+                "canonicalBaseUrl": "/@ActualDavis"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 minute, 42 seconds"
+          }
+        },
+        "simpleText": "1:42"
+      },
+      "isLive": false
+    },
+    {
+      "id": "yrkH8YGPZOc",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/yrkH8YGPZOc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBFgjB5rhrM7NXyQLINcYI_cA5JcA",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/yrkH8YGPZOc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAGHgcLEUTBb5FG7pojin0hOmhgRQ",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "HYPERLINK [Deltarune Spamton Animation]",
+      "channelTitle": "Frostbyte",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Frostbyte",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIkCENwwGAQiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@ThatFrostbyte",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCOrxXVotxpIz53_f75Eg2hA",
+                "canonicalBaseUrl": "/@ThatFrostbyte"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 minute, 55 seconds"
+          }
+        },
+        "simpleText": "1:55"
+      },
+      "isLive": false
+    },
+    {
+      "id": "d8RkcUiCxuE",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/d8RkcUiCxuE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLUn6CCq75J4TREiR3H9Roy0mWQg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/d8RkcUiCxuE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCW8xu6ydKz3GFe4PrgKYjyWHrEhg",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "AD INFINITUM | Deltarune - Spamton G. Spamton Song! Prod. by oo oxygen",
+      "channelTitle": "The Stupendium",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "The Stupendium",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CIQCENwwGAUiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@TheStupendium",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCvbc2N6biTMUDFE_b79TPbw",
+                "canonicalBaseUrl": "/@TheStupendium"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "5 minutes, 45 seconds"
+          }
+        },
+        "simpleText": "5:45"
+      },
+      "isLive": false
+    },
+    {
+      "id": "6IhFEHJG68Q",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/6IhFEHJG68Q/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYMSBSKHIwDw==&rs=AOn4CLCD8nBCT0nfpHVLT0DnwcSmhj019A",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/6IhFEHJG68Q/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYMSBSKHIwDw==&rs=AOn4CLCaHGzm9CAPxWtBxuEXEZvW6B3RMQ",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Spamton Hypes Himself Up || Deltarune Animation",
+      "channelTitle": "Alonzo_Animates",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Alonzo_Animates",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CP8BENwwGAYiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@alonzo_animates7875",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UC9o1eio7MUyGPBMCXCUrooQ",
+                "canonicalBaseUrl": "/@alonzo_animates7875"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "33 seconds"
+          }
+        },
+        "simpleText": "0:33"
+      },
+      "isLive": false
+    },
+    {
+      "id": "eLCY1rkk8hM",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/eLCY1rkk8hM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYgDqXUmtwGLriA0ZAzKG1Bka-QA",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/eLCY1rkk8hM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCtvPRBZeCWsEThT5WKnPd6Ss6DPw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Spamton NEO - ANIMATED",
+      "channelTitle": "Hobo Hobo",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Hobo Hobo",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CNgBENwwGAgiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@HoboHoboLOLFUNNY",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCDPQg2rivnw8SZxsZEZMy6Q",
+                "canonicalBaseUrl": "/@HoboHoboLOLFUNNY"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "2 minutes, 24 seconds"
+          }
+        },
+        "simpleText": "2:24"
+      },
+      "isLive": false
+    },
+    {
+      "id": "9sQcROW4LZQ",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/9sQcROW4LZQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCfBRAv-XFmZIzvwYX7a34s-OktlQ",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/9sQcROW4LZQ/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD405cx8LE_FwoCmbFwhu_1_vh2gA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Spamton Boss Fight - Deltarune Chapter 2",
+      "channelTitle": "Faz Faz",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Faz Faz",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CNMBENwwGAkiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@FazFaz",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCMXEPB6sOKfgFLpXc1cURjg",
+                "canonicalBaseUrl": "/@FazFaz"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "5 minutes, 31 seconds"
+          }
+        },
+        "simpleText": "5:31"
+      },
+      "isLive": false
+    },
+    {
+      "id": "VrI16FVB9QY",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/VrI16FVB9QY/hqdefault.jpg?sqp=-oaymwE9COADEI4CSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ab4HgALQBYoCDAgAEAEYciAwKHIwDw==&rs=AOn4CLCCr1uiuolicG6YQTK85bkQKvr2Sg",
+            "width": 480,
+            "height": 270
+          }
+        ]
+      },
+      "title": "Deltarune: Triple Enraged Spamton NEO No Hit No Right Button [TAS]",
+      "channelTitle": "Youmi Channel",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Youmi Channel",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CM4BENwwGAoiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@youmichannel",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCqVJvDUY7BroUqCBlAnnKkA",
+                "canonicalBaseUrl": "/@youmichannel"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "17 minutes, 34 seconds"
+          }
+        },
+        "simpleText": "17:34"
+      },
+      "isLive": false
+    },
+    {
+      "id": "uivFFnCI8tM",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/uivFFnCI8tM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA290hvp8SMMZwexgmloPiSFImEig",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/uivFFnCI8tM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDzEYY1kpJI383PcGzCG6H5prftBg",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "BIG SHOT",
+      "channelTitle": "Toby Fox - Topic",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Toby Fox - Topic",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CMkBENwwGAsiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCntaczLM_lWH85oZp6rRX1w",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCntaczLM_lWH85oZp6rRX1w",
+                "canonicalBaseUrl": "/channel/UCntaczLM_lWH85oZp6rRX1w"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "2 minutes, 23 seconds"
+          }
+        },
+        "simpleText": "2:23"
+      },
+      "isLive": false
+    },
+    {
+      "id": "fdGQNMUfdt4",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/fdGQNMUfdt4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC106v1463hZaBWeqLQvISo8Ny3nQ",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/fdGQNMUfdt4/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBnYsQUCFAd9xaz58FxMb4k2iT1SQ",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "[VOD] DELTARUNE Chapter 2. Spamton.",
+      "channelTitle": "Gungy",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Gungy",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CMQBENwwGAwiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@gungy_vt",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UChxgnFtGH2ZY5upHzsJfQ0g",
+                "canonicalBaseUrl": "/@gungy_vt"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "3 hours, 30 minutes, 46 seconds"
+          }
+        },
+        "simpleText": "3:30:46"
+      },
+      "isLive": false
+    },
+    {
+      "id": "pwRmZoUDEnQ",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/pwRmZoUDEnQ/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYHSBOKH8wDw==&rs=AOn4CLBKfWlLL27zRS17iey4ucLh7HaCjg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/pwRmZoUDEnQ/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGADwAQH4AbYIgAKAD4oCDAgAEAEYHSBOKH8wDw==&rs=AOn4CLCBw4RYNGHcDgBuTe7xu7e0yUpWZw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Deltarune SPAMTON",
+      "channelTitle": "GaroShadowscale",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "GaroShadowscale",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CKgBEJ2kBxgOIhMIy_Hg5bz0jQMVlR7WAB0HwxZf",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@GaroShadowscale",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCTHTutNmQfeMMk6Tme-dKyw",
+                "canonicalBaseUrl": "/@GaroShadowscale"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 minute"
+          }
+        },
+        "simpleText": "1:00"
+      },
+      "isLive": false
+    },
+    {
+      "id": "InWBcX4bdyU",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/InWBcX4bdyU/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYQiA6KH8wDw==&rs=AOn4CLAaoEX9IjCDDIeLKWWpVL6DX3DZww",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/InWBcX4bdyU/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYQiA6KH8wDw==&rs=AOn4CLAI9ZeAkSNzuINBc9FLreidAHlKHA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Spamton - Deltarune: Chapter 2 Music Extended",
+      "channelTitle": "Cave's Combustible Lemonade",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Cave's Combustible Lemonade",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CKMBENwwGA8iEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@cavescombustiblelemonade9054",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCugtNHZLgrqYl41Or75oUJg",
+                "canonicalBaseUrl": "/@cavescombustiblelemonade9054"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "10 minutes, 1 second"
+          }
+        },
+        "simpleText": "10:01"
+      },
+      "isLive": false
+    },
+    {
+      "id": "61zGGtTdv5s",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/61zGGtTdv5s/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAjgLxn7DhlaT7a-rAHgOSIH3aurA",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/61zGGtTdv5s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDsx_VSShaTEZAWvjJkiZnuA3rdrg",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "SPAMTON SWEEPSTAKES - Spamton Value Network",
+      "channelTitle": "Fangamer",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Fangamer",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CHcQ3DAYESITCMvx4OW89I0DFZUe1gAdB8MWXw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@FangamerCom",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCrqfIYOTpB1pu6j8qn4xMNA",
+                "canonicalBaseUrl": "/@FangamerCom"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "34 minutes, 34 seconds"
+          }
+        },
+        "simpleText": "34:34"
+      },
+      "isLive": false
+    },
+    {
+      "id": "K0NSYSxmrbw",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/K0NSYSxmrbw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBOePujZJBYkE9MeQYPWYz580v1Zg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/K0NSYSxmrbw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfDxP9g69bOKQB4mJphbSSVgb4hw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Deltarune Chapter 2 - Alex Rochon's Spamton Fandubs!",
+      "channelTitle": "Alex Rochon",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Alex Rochon",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CHIQ3DAYEiITCMvx4OW89I0DFZUe1gAdB8MWXw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@peanut3423",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCuUSswG4eMcHmSTleX9XF4w",
+                "canonicalBaseUrl": "/@peanut3423"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "8 minutes, 52 seconds"
+          }
+        },
+        "simpleText": "8:52"
+      },
+      "isLive": false
+    },
+    {
+      "id": "jHRpwH1XuL0",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/jHRpwH1XuL0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyOVCK3rvEpeXf7WZG5zPgnY4lGg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/jHRpwH1XuL0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB1Ww9ACct0Vhs8IgCWv1nOspKpqg",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "CALL 1-800! A Spamton Deltarune Animation",
+      "channelTitle": "colliholly",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "colliholly",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CFwQ3DAYFCITCMvx4OW89I0DFZUe1gAdB8MWXw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@colliholly",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCobUST_-UWETXnLbU7896mQ",
+                "canonicalBaseUrl": "/@colliholly"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "1 minute, 8 seconds"
+          }
+        },
+        "simpleText": "1:08"
+      },
+      "isLive": false
+    },
+    {
+      "id": "fKYBjVKVmv4",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/fKYBjVKVmv4/hq720.jpg?sqp=-oaymwE9COgCEMoBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4AbYIgAKAD4oCDAgAEAEYEyA5KH8wDw==&rs=AOn4CLCX6GEiwfj0EM7RvLeMALxxjG9sfg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/fKYBjVKVmv4/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGADwAQH4AbYIgAKAD4oCDAgAEAEYEyA5KH8wDw==&rs=AOn4CLBwwudHoUIEI5faGqDiR9-jLqH1HA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Deltarune SPAMTON HELL MODE",
+      "channelTitle": "GaroShadowscale",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "GaroShadowscale",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CFYQnaQHGBUiEwjL8eDlvPSNAxWVHtYAHQfDFl8=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@GaroShadowscale",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCTHTutNmQfeMMk6Tme-dKyw",
+                "canonicalBaseUrl": "/@GaroShadowscale"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "59 seconds"
+          }
+        },
+        "simpleText": "0:59"
+      },
+      "isLive": false
+    },
+    {
+      "id": "sKCfhrSyjLg",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/sKCfhrSyjLg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDgwo40ziZMo7l2X4Oje0iO6gUKdQ",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/sKCfhrSyjLg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCf7ZlgNPq2yOYO8R8ki8Xj42TKSw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Spamton Meets Tenna Cutscene [ Deltarune Chapter 3 ]",
+      "channelTitle": "kesMadgik",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "kesMadgik",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CFEQ3DAYFiITCMvx4OW89I0DFZUe1gAdB8MWXw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@kesMadgik",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCQVHoStWkgJCFLFOpEtWcRA",
+                "canonicalBaseUrl": "/@kesMadgik"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "2 minutes, 4 seconds"
+          }
+        },
+        "simpleText": "2:04"
+      },
+      "isLive": false
+    },
+    {
+      "id": "X-NdGGSTVdM",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/X-NdGGSTVdM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVcIZpv-2OpxZ_W7LP0dnexBj3Uw",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/X-NdGGSTVdM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCXg8O3De7ZD4jCdgIGN1f6Kk7otw",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Spamton Plays Minecrap and [[Rage Quits]]",
+      "channelTitle": "Jon SpeedArts",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "Jon SpeedArts",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CEwQ3DAYFyITCMvx4OW89I0DFZUe1gAdB8MWXw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@JonSpeedArts",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UC7t3KD7patIDgAkSyMU3jXg",
+                "canonicalBaseUrl": "/@JonSpeedArts"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "31 seconds"
+          }
+        },
+        "simpleText": "0:31"
+      },
+      "isLive": false
+    },
+    {
+      "id": "PDceYn0n05c",
+      "type": "video",
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/PDceYn0n05c/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIZsQQLZoJ4F4WwTkUUVrk2ftceg",
+            "width": 360,
+            "height": 202
+          },
+          {
+            "url": "https://i.ytimg.com/vi/PDceYn0n05c/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDdEQmPV9aDassk_9EY_aTQFraLLA",
+            "width": 720,
+            "height": 404
+          }
+        ]
+      },
+      "title": "Spamton Gets Ratio'd - Deltarune Animation",
+      "channelTitle": "MythicalWater",
+      "shortBylineText": {
+        "runs": [
+          {
+            "text": "MythicalWater",
+            "navigationEndpoint": {
+              "clickTrackingParams": "CEcQ3DAYGCITCMvx4OW89I0DFZUe1gAdB8MWXw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/@MythicalWater",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCFQt3Ilk9ThH_pAJqCj4WBQ",
+                "canonicalBaseUrl": "/@MythicalWater"
+              }
+            }
+          }
+        ]
+      },
+      "length": {
+        "accessibility": {
+          "accessibilityData": {
+            "label": "3 minutes, 11 seconds"
+          }
+        },
+        "simpleText": "3:11"
+      },
+      "isLive": false
+    }
+  ],
+  "nextPage": {
+    "nextPageToken": "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+    "nextPageContext": {
+      "context": {
+        "client": {
+          "hl": "en",
+          "gl": "US",
+          "remoteHost": "2600:4040:5c43:b700:b071:eac7:65f6:a080",
+          "deviceMake": "Axios",
+          "deviceModel": "Content Fetcher",
+          "visitorData": "Cgs1VEdpdTZBLWhtNCiSkr3CBjIKCgJVUxIEGgAgWQ%3D%3D",
+          "userAgent": "axios/1.10.0,gzip(gfe)",
+          "clientName": "WEB",
+          "clientVersion": "2.20250613.00.00",
+          "osVersion": "",
+          "originalUrl": "https://www.youtube.com/results?search_query=spamton",
+          "platform": "DESKTOP",
+          "clientFormFactor": "UNKNOWN_FORM_FACTOR",
+          "configInfo": {
+            "appInstallData": "CJKSvcIGEI3MsAUQhJDPHBCrnc8cEN_czhwQt-r-EhDgzbEFEJ3QsAUQiIS4IhC9tq4FEOLUrgUQudnOHBDg4P8SEIHNzhwQmZixBRDMic8cEKSIgBMQiOOvBRC4n88cEPDizhwQnaawBRD8ss4cEK-GzxwQ5a7PHBDpiM8cEJT-sAUQ1JrPHBDYnM8cELvZzhwQuOTOHBDN0bEFEOvo_hIQyKXPHBC2rc8cEL6KsAUQy9GxBRCIh7AFEMzfrgUQyfevBRCCj88cEK6P_xIQ26-vBRDXwbEFEImwzhwQi4KAExCMoM8cEKiqzxwQ3rzOHBCZjbEFELCJzxwQjqzPHBCGtM8cENOfzxwQh6zOHBDuoM8cEKaasAUQw4qAExCJ6K4FEM-kzxwQu5zPHBDa984cEOmhzxwQxo7PHBDnr88cEKv4zhwQgaDPHBDT4a8FEKOuzxwQ9quwBRC9mbAFEKmdzxwQ6rPPHBCYp88cEMmXzxwQ9JSAEyo0Q0FNU0lSVWFwYjJ3RE56a0JwU0NFdWZpNWd1UDlBN3Ytd2JWX0FDMXpBYlduUVVkQnc9PQ%3D%3D"
+          },
+          "userInterfaceTheme": "USER_INTERFACE_THEME_LIGHT",
+          "acceptHeader": "application/json, text/plain, */*",
+          "deviceExperimentId": "ChxOelV4TmpNd05qWTBOVFU0TURneE5EWTBOZz09EJKSvcIGGJKSvcIG",
+          "rolloutToken": "CIrHgvef2drHFhCXkt_lvPSNAxiXkt_lvPSNAw%3D%3D"
+        },
+        "user": {
+          "lockedSafetyMode": false
+        },
+        "request": {
+          "useSsl": true
+        },
+        "clickTracking": {
+          "clickTrackingParams": "IhMI0YLf5bz0jQMVguc/BB1KORKH"
+        }
+      },
+      "continuation": "EqADEgdzcGFtdG9uGpQDU0JTQ0FRczNNblJJWVhjM1NIaG5jNElCQzJOVGJUVm5TMnh0ZHpKTmdnRUxkVEUwZEZwaWFVWk5hVENDQVF0NWNtdElPRmxIVUZwUFk0SUJDMlE0VW10alZXbERlSFZGZ2dFTE5rbG9Sa1ZJU2tjMk9GR0NBUXRsVEVOWk1YSnJhemhvVFlJQkN6bHpVV05TVDFjMFRGcFJnZ0VMVm5KSk1UWkdWa0k1VVZtQ0FRdDFhWFpHUm01RFNUaDBUWUlCQzJaa1IxRk9UVlZtWkhRMGdnRUxjSGRTYlZwdlZVUkZibEdDQVF0SmJsZENZMWcwWW1SNVZZSUJDell4ZWtkSGRGUmtkalZ6Z2dFTFN6Qk9VMWxUZUcxeVluZUNBUXRxU0ZKd2QwZ3hXSFZNTUlJQkMyWkxXVUpxVmt0V2JYWTBnZ0VMYzB0RFptaHlVM2xxVEdlQ0FRdFlMVTVrUjBkVFZGWmtUWUlCQzFCRVkyVlpiakJ1TURWanNnRUdDZ1FJR1JBQzZnRUVDQUlRTWclM0QlM0QYgeDoGCILc2VhcmNoLWZlZWQ%3D"
+    }
+  }
+}
